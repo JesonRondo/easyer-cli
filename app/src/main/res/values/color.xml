@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="font_color_normal">#666666</color>
+    <color name="font_color_light_gray">#878787</color>
+    <color name="font_color_white">#ffffff</color>
+    <color name="font_color_pink">#ff5777</color>
+
+    <color name="theme_white">#ffffff</color>
+    <color name="theme_pink">#ff5777</color>
+    <color name="theme_gray">#f0f2f5</color>
+
+    <color name="border_light_gray">#e5e5e5</color>
+    <color name="border_gray">#d1d1d1</color>
+    <color name="border_pink">#ff5777</color>
+</resources>

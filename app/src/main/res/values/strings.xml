@@ -1,6 +1,17 @@
 <resources>
-    <string name="app_name">easyer-cli</string>
+    <string name="app_name">健力宝</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="text_overage">理财资产（元）</string>
+    <string name="text_income">昨日收益（元）</string>
+    <string name="text_complex">综合收益率（%）</string>
+    <string name="text_accumulative">累计收益（元）</string>
+
+    <string name="button_charge">转入</string>
+    <string name="button_withdraw">转出</string>
+
+    <string name="button_switch_7Days">七日年化收益(%)</string>
+    <string name="button_switch_wIncome">万份收益(元)</string>
+
+    <string name="text_ad_str1">由平安银行橙e网与蘑菇街提供</string>
+    <string name="text_ad_str2">登录橙e网可享受更多优质服务</string>
 </resources>
