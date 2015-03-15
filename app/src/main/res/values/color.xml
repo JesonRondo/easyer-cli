@@ -4,6 +4,7 @@
     <color name="font_color_light_gray">#878787</color>
     <color name="font_color_white">#ffffff</color>
     <color name="font_color_pink">#ff5777</color>
+    <color name="font_color_orange">#fc6e51</color>
 
     <color name="theme_white">#ffffff</color>
     <color name="theme_pink">#ff5777</color>
